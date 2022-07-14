@@ -23,8 +23,10 @@
 
 [![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/en)
 [![expressjs](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com)
+![expressjs](https://img.shields.io/badge/Apollo_Server-7056DA?style=for-the-badge&logo=Apollo+Server&logoColor=white)
 ![MoleculerJS](https://img.shields.io/static/v1?style=for-the-badge&message=MoleculerJS&color=3CAFCE&logo=Moleculer&logoColor=FFFFFF&label=)
 ![AWS Lambda](https://img.shields.io/static/v1?style=for-the-badge&message=AWS+Lambda&color=222222&logo=AWS+Lambda&logoColor=FF9900&label=)
+![Amazon AWS](https://img.shields.io/static/v1?style=for-the-badge&message=GraphQL&color=D60290&logo=GraphQL&logoColor=FFFFFF&label=)
 [![react](https://img.shields.io/badge/React/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org)
 [![VueJS](https://img.shields.io/badge/Vue.js-4fc08d?style=for-the-badge&logo=vuedotjs&logoColor=white)](https://vuejs.org)
 ![Tailwind CSS](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=)
