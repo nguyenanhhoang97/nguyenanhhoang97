@@ -19,19 +19,20 @@
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🧩 Frameworks/Libraries
+### 🌱 Frameworks/Libraries
 
 [![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/en)
 [![expressjs](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com)
-![expressjs](https://img.shields.io/badge/Apollo_Server-7056DA?style=for-the-badge&logo=Apollo+Server&logoColor=white)
-![MoleculerJS](https://img.shields.io/static/v1?style=for-the-badge&message=MoleculerJS&color=3CAFCE&logo=Moleculer&logoColor=FFFFFF&label=)
+![ApolloServer](https://img.shields.io/badge/Apollo_Server-7056DA?style=for-the-badge&logo=Apollo+Server&logoColor=white)
 ![AWS Lambda](https://img.shields.io/static/v1?style=for-the-badge&message=AWS+Lambda&color=222222&logo=AWS+Lambda&logoColor=FF9900&label=)
-![Amazon AWS](https://img.shields.io/static/v1?style=for-the-badge&message=GraphQL&color=D60290&logo=GraphQL&logoColor=FFFFFF&label=)
+![GraphQL](https://img.shields.io/static/v1?style=for-the-badge&message=GraphQL&color=D60290&logo=GraphQL&logoColor=FFFFFF&label=)
 [![react](https://img.shields.io/badge/React/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org)
 [![VueJS](https://img.shields.io/badge/Vue.js-4fc08d?style=for-the-badge&logo=vuedotjs&logoColor=white)](https://vuejs.org)
 ![Tailwind CSS](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=222222&logo=Tailwind+CSS&logoColor=06B6D4&label=)
 [![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com)
 [![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
+![Vite](https://img.shields.io/static/v1?style=for-the-badge&message=Vite&color=9666FF&logo=Vite&logoColor=FFFFFF&label=)
+![Webpack](https://img.shields.io/static/v1?style=for-the-badge&message=Webpack&color=1D74BB&logo=Webpack&logoColor=FFFFFF&label=)
 
 ### ☁️ Cloud Providers
 
@@ -48,11 +49,12 @@
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 ![Kubernetes](https://img.shields.io/static/v1?style=for-the-badge&message=Kubernetes&color=326CE5&logo=Kubernetes&logoColor=FFFFFF&label=)
 [![firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com)
-[![postman](https://img.shields.io/badge/Insomnia-604FB8?style=for-the-badge&logo=Insomnia&logoColor=white)](https://www.postman.com)
+[![Insomnia](https://img.shields.io/badge/Insomnia-604FB8?style=for-the-badge&logo=Insomnia&logoColor=white)](https://www.postman.com)
 [![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
 [![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com)
+![CircleCI](https://img.shields.io/static/v1?style=for-the-badge&message=CircleCI&color=black&logo=CircleCI&logoColor=FFFFFF&label=)
 
-### 🧠 IDEs/Text Editors I use
+### 👀 IDEs/Editors
 
 [![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)
 ![Vim](https://img.shields.io/static/v1?style=for-the-badge&message=Vim&color=019733&logo=Vim&logoColor=FFFFFF&label=)
@@ -63,7 +65,7 @@
 ![Macbook](https://img.shields.io/badge/Apple-MacBook_Pro_2021_M1_Pro-999999?style=for-the-badge&logo=apple&logoColor=white)
 
 ![macOS](https://img.shields.io/static/v1?style=for-the-badge&message=macOS&color=000000&logo=apple&logoColor=FFFFFF&label=)
+![Ubuntu](https://img.shields.io/static/v1?style=for-the-badge&message=Ubuntu&color=D84515&logo=Ubuntu&logoColor=FFFFFF&label=)
 ![Alpine Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Alpine+Linux&color=0D597F&logo=Alpine+Linux&logoColor=FFFFFF&label=)
-![Debian](https://img.shields.io/static/v1?style=for-the-badge&message=Debian&color=A81D33&logo=Debian&logoColor=FFFFFF&label=)
 
 ---
