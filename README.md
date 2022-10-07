@@ -2,13 +2,16 @@
 
 🤖 **Technical Lead | FullStack Developer**
 
-<a href="https://app.daily.dev/ahng"><img src="https://api.daily.dev/devcards/66f3f8fd43ed4712907ed941453b3c39.png?r=zei" width="400" alt="Nguyen Anh Hoang's Dev Card"/></a>
-
 ### 🫡 Contact me
 
 ![Telegram](https://img.shields.io/badge/+84777557857-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![WhatsApp](https://img.shields.io/badge/+84777557857-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 ![Gmail](https://img.shields.io/badge/nguyenanhhoang.ict@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+<div style="display: flex;">
+
+
+<div>
 
 <img  alt="languages"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenanhhoang97&theme=dark&hide_border=true&hide=php,css,html,scss&layout=default"  />
 
@@ -71,3 +74,10 @@
 ![Alpine Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Alpine+Linux&color=0D597F&logo=Alpine+Linux&logoColor=FFFFFF&label=)
 
 ---
+
+
+</div>
+
+<a href="https://app.daily.dev/ahng"><img src="https://api.daily.dev/devcards/66f3f8fd43ed4712907ed941453b3c39.png?r=zei" width="400" alt="Nguyen Anh Hoang's Dev Card"/></a>
+
+</div>
