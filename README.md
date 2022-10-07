@@ -2,6 +2,8 @@
 
 🤖 **Technical Lead | FullStack Developer**
 
+<a href="https://app.daily.dev/ahng"><img src="https://api.daily.dev/devcards/66f3f8fd43ed4712907ed941453b3c39.png?r=zei" width="400" alt="Nguyen Anh Hoang's Dev Card"/></a>
+
 ### 🫡 Contact me
 
 ![Telegram](https://img.shields.io/badge/+84777557857-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
