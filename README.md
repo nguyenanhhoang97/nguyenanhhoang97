@@ -8,8 +8,6 @@
 ![WhatsApp](https://img.shields.io/badge/+84777557857-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 ![Gmail](https://img.shields.io/badge/nguyenanhhoang.ict@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
-<img  alt="languages"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenanhhoang97&theme=dark&hide_border=true&hide=php,css,html,scss&layout=default"  />
-
 ---
 ### 🧑‍💻 Languages
 
